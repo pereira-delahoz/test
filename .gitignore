@@ -1,5 +1,6 @@
 #images
 
-images/*
-*.jpg
+/images/
+images/
+*/images/*
 images/*.jpg
